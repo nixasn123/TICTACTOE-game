@@ -3,11 +3,6 @@ first python project
 
 
 
-def print_hi(name):
-   
-
-
-
 
 from tkinter import *
 import time
